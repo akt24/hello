@@ -20,6 +20,6 @@
 int main(void)
 {
   bool a=0,b=0;
-  printf("sizeof a=%d sizeof b=%d",a,b);
+  printf("Sizeof a=%d sizeof b=%d",a,b);
   return 0;
 }
