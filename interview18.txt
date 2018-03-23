@@ -1,2 +1,4 @@
 learning git commit --ammend
-
+change1
+change2
+change3
